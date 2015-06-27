@@ -1,0 +1,33 @@
+<section class="artistpage">
+  <div class="search row">
+
+    <div class="col-md-3">
+      <h1>MOHAMED SAMY</h1>
+      <small>Senior Web Developer</small>
+      <img src="images/cv.jpg" class="img-responsive img-thumbnail">
+      <h6><i class="glyphicon glyphicon-globe" aria-hidden="true"></i> Egypt - Cairo</h6>
+      <h6><i class="glyphicon glyphicon-phone" aria-hidden="true"></i> 201024791324</h6>
+      <h6><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i> mohamed.sheir2014@gmail.com</h6>
+    </div>
+  
+  <div class="col-md-9">
+  <section class="artistinfo">
+      <div class="artist cf" ng-model="artists">
+      <div class="row">
+      <div class="col-md-9">
+      <img ng-src="images/{{artists[whichItem].shortname}}.png" class="small-img" alt="Photo of {{artists[whichItem].name}}">
+      <h1>{{artists[whichItem].name}}</h1>
+      </div>
+      <div class="col-md-3 nav-btn">
+    <a href="#/details/{{prevItem}}" class="btn btn-left"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Pre </a>
+    <a href="#/details/{{nextItem}}" class="btn btn-right"> Next <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
+    </div>
+    </div>
+    <div class="info-ex">
+      <div class="bio" ng-bind-html="contentText">
+    </div>
+    </div>
+  <a href="index.html">&laquo; Back to List</a>
+    </div>
+  </div>
+</section>

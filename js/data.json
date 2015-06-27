@@ -1,0 +1,44 @@
+[
+  {
+    "id":"1",
+    "name":"Summary",
+    "shortname":"Summary",
+    "reknown":"Short decription about experience, skills and character",
+    "contentData":"<ul><li>+4 years of experience in developing websites including front-end and back-end</li><li>Experienced in using php MVC frameworks (Codeiginter, Laravel and Cakephp)</li><li>Good deal with JavaScript and JavaScript Frameworks (jQuery, Ajax, Emberjs and Angularjs)</li><li>Have a strong knowledge in web design including CSS , CSS framework (bootstrap and foundation) and Photoshop</li><li>Worked with SEO specialists and gain experience</li><li>Self-motivated, self-starter , duty bound and a highly committed team player with strong conceptual knowledge of web development</li><li>Experienced at analyzing employer' needs and helping him to achieve goals through professional project management.</li><li>Worked in a team and have leadership character</li><li>Quiet, non-fanatic, finely deal with the team and over my career there are no black points</li></ul>"
+  },
+  {
+    "id":"2",
+    "name":"Experience",
+    "shortname":"Experience",
+    "reknown":"Current and previous career",
+    "contentData":"<div class='exper-div'><h2>Senior Web Developer, SEO Era</h2><h4>Egyptian Company , its size : 20 – 30 employees</h4><h3><span class='glyphicon glyphicon-calendar' aria-hidden='true'></span> August 2014 - Now</h3><p>Responsible for development department in the company involving meeting clients and discuss with them their desires , and I try hardly to show them their desires in the application , built over 10 web applications</p></div> <div class='exper-div'><h2>Web Developer, Lean Consulting</h2><h4>French Company has a branch in Egypt , its size : 15 – 25 employees</h4><h3><span class='glyphicon glyphicon-calendar' aria-hidden='true'></span> December 2013 - August 2014</h3><p>Responsible for development department , involve large backend system which considered a data entry for 1200 websites in 4 servers , all 1200 websites have same style and design and develop but with different content and linked them to get visitors (SEO) </p><h3>My Achievements in that system : </h3> <ul class='inline-list'><li>Increasing productivity of the system which data entries can input 12,000 products in 5 days</li><li>Stability of the system</li><li>Security of the system</li><li>System Improvement and development from time to another</li></ul><p>Addition of that I built 2 Web applications . First one called decoreduc.com , it's a search engine website which search in large database include 72,000 products. <br>Second one called prixmania.fr , it's online negotiations for products which user can ask if he can buy a product with less cost. <br>In the experience certificate, it was written 'he have a strong knowledge in web programming and ability to produce applications with high quality and performance'</p></div> <div class='exper-div'><h2>Freelance Web Developer</h2><h4>During my study</h4><h3><span class='glyphicon glyphicon-calendar' aria-hidden='true'></span> May 2011- November 2013</h3><p>build websites for clients during my study, built 4 website</p></div>"
+  },
+  {
+    "id":"3",
+    "name":"Languages",
+    "shortname":"Languages",
+    "reknown":"Native language and gained language from working and college",
+    "contentData":"<h2>Arabic<h2><p>My Native language</p><h2>English<h2><p>Speaking, Listening and Writing</p>"
+  },
+  {
+    "id":"4",
+    "name":"Education",
+    "shortname":"Education",
+    "reknown":"Colleges and Courses",
+    "contentData":"<h2>Faculty of Computers and Information</h2><p><span class='glyphicon glyphicon-calendar' aria-hidden='true'></span> 2009:2013 - Good||</p><h2>Courses</h2><ul class='inline-list'><li>Security</li><li>Software Engineering</li><li>Data Structure</li><li>File Structure</li><li>Graphic</li><li>Data Compression</li><li>Programming Languages</li></ul><h2>Honors and Awards</h2><p>I have been awarded the best project in my 3rd year in software engineering subject for Electronic Election Website</p>"
+  },
+  {
+    "id":"5",
+    "name":"Skills",
+    "shortname":"Skills",
+    "reknown":"Independent skills and gained skills from working",
+    "contentData":"<div class='row'><div class='col-md-4'><h2>PHP <small>(4 years)</small></h2><ul class='inline-list'><li>CodeIgniter</li><li>Cakephp</li><li>Laravel</li><li>OOP</li></ul></div><div class='col-md-4'><h2>JavaScript <small>(3 years)</small></h2><ul class='inline-list'><li>jQuery</li><li>AJAX</li><li>Angularjs</li><li>Emberjs</li></ul></div><div class='col-md-4'><h2>Web Design <small>(4 years)</small></h2><ul class='inline-list'><li>HTML5</li><li>CSS</li><li>PSD</li></ul></div></div><div class='row'><div class='col-md-6'><h2>Others</h2><ul class='inline-list'><li>SEO</li><li>Joomla <small>(Knowledge)</small></li><li>GIT</li><li>E-Commerce</li><li>Linux</li><li>Java</li><li>CSV</li></ul></div><div class='col-md-6'><h2>Gained skills from working</h2><ul class='inline-list'><li>Team Leadership</li><li>Web Security</li><li>Teamwork</li><li>Project Management</li><li>Project Planning</li><li>Problem Solving</li></ul></div></div>"
+  },
+  {
+    "id":"6",
+    "name":"Projects",
+    "shortname":"Projects",
+    "reknown":"References with links",
+    "contentData":"<div class='row'><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.lmholiday.com/' target='blank'><img src='images/lm.png' class='img-responsive' alt='LM Holiday'></a></center></div><center><a href='http://www.lmholiday.com/' target='blank'>LM Holiday</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.premium-holidays247.com/' target='blank'><img src='images/premium.jpg' class='img-responsive' alt='Premium'></a></center></div><center><a href='http://www.premium-holidays247.com/' target='blank'>Premium</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.youmsakhen.com/' target='blank'><img src='images/youm7.png' class='img-responsive' alt='El Youm El Sakhn '></a></center></div><center><a href='http://www.youmsakhen.com/' target='blank'>El Youm El Sakhn</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.almasrianews.com/' target='blank'><img src='images/almasryia.png' class='img-responsive' alt='El Masrya'></a></center></div><center><a href='http://www.almasrianews.com/' target='blank'>El  Masrya</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.cardinaltoursegypt.com/' target='blank'><img src='images/cardnal.png' class='img-responsive' alt='Cardnal'></a></center></div><center><a href='http://www.cardinaltoursegypt.com/' target='blank'>Cardnal</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.available-travel.com/' target='blank'><img src='images/av.png' class='img-responsive' alt='Available Travel'></a></center></div><center><a href='http://www.available-travel.com/' target='blank'>Available Travel</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.egyptpromotion.com/' target='blank'><img src='images/promotion.jpg' class='img-responsive' alt='Egypt Promotion'></a></center></div><center><a href='http://www.egyptpromotion.com/' target='blank'>Egypt Promotion</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.ibistravel.net/' target='blank'><img src='images/ibis.png' class='img-responsive' alt='Ibis'></a></center></div><center><a href='http://www.ibistravel.net/' target='blank'>Ibis</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.hotelmanageregypt.com/' target='blank'><img src='images/hotel.png' class='img-responsive' alt='Hotel Manager'></a></center></div><center><a href='http://www.hotelmanageregypt.com/' target='blank'>Hotel Manager</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://mrzai.com/' target='blank'><img src='images/mrzai.jpg' class='img-responsive' alt='Mrzai'></a></center></div><center><a href='http://mrzai.com/' target='blank'>Mrzai</a></center></div><div class='col-md-4 project-div'><div class='project-img'><center><a href='http://www.aqarcap.com/' target='blank'><img src='images/aqar.png' class='img-responsive' alt='Aqarcap'></a></center></div><center><a href='http://www.aqarcap.com/' target='blank'>Aqarcap</a></center></div></div>"
+  }
+]

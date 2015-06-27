@@ -1,0 +1,29 @@
+<section class="artistpage">
+  <div class="search row">
+
+    <div class="col-md-3">
+      <h1>MOHAMED SAMY</h1>
+      <small>Senior Web Developer</small>
+      <img ng-src="images/cv.jpg" class="img-responsive img-thumbnail" alt="Mohamed Samy">
+      <h6><i class="glyphicon glyphicon-globe" aria-hidden="true"></i> Egypt - Cairo</h6>
+      <h6><i class="glyphicon glyphicon-phone" aria-hidden="true"></i> 201024791324</h6>
+      <h6><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i> mohamed.sheir2014@gmail.com</h6>
+      <label>Search: </label>
+      <input ng-model="query" placeholder="Search in resume" autofocus>
+    </div>
+  
+  <div class="col-md-9">
+    <ul class="artistlist">
+      <li ng-animate="'animate'" class="artist cf" ng-repeat="item in artists | filter: query">
+        <a href="#/details/{{artists.indexOf(item)}}">
+          <img ng-src="images/{{item.shortname}}.png" class="small-img" alt="Photo of {{item.name}}">
+          <div class="info">
+            <h2>{{item.name}}</h2>
+            <h3>{{item.reknown}}</h3>
+          </div>
+        </a>
+      </li>
+    </ul>  
+    </div>
+  </div>
+</section>
